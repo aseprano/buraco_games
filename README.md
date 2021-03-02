@@ -1,0 +1,1 @@
+![Version](https://img.shields.io/github/package-json/v/aseprano/buraco_games) ![Build](https://img.shields.io/travis/aseprano/buraco_games) [![Coverage Status](https://img.shields.io/coveralls/github/aseprano/buraco_games/master)](https://coveralls.io/github/aseprano/buraco_games?branch=master)
